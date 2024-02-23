@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=DotGothic16&size=28&pause=1000&color=9E98F7&random=false&width=435&lines=Hello!+I'm+Kramer+and+...;I'm+a+Software+Engineer!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DotGothic16&size=28&pause=1000&color=9E98F7&random=false&width=435&lines=Hello!+I'm+Kramer+and+...;I'm+a+Software+Developer!)](https://git.io/typing-svg)
 
 ![GithubPeopleCity](https://github.com/KramerJProg/KramerJProg/assets/72529822/ea4c0d4b-cdb8-4ddf-afb5-086a94167e0b)
 <hr>
